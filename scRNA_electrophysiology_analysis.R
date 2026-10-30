@@ -1,10 +1,10 @@
 ############################################################
-Final R Script for Single-cell RNA-seq Analysis
-Final four-sample dataset
-TN331-11 = hESC-CM
-TN331-12 = hESC-CM
-TN331-13 = Hypoimmunogenic hiPSC-CM
-TN331-14 = Hypoimmunogenic hiPSC-CM
+# Final R Script for Single-cell RNA-seq Analysis
+# Final four-sample dataset
+# TN331-11 = hESC-CM
+# TN331-12 = hESC-CM
+# TN331-13 = Hypoimmunogenic hiPSC-CM
+# TN331-14 = Hypoimmunogenic hiPSC-CM
 
 ############################################################
 
